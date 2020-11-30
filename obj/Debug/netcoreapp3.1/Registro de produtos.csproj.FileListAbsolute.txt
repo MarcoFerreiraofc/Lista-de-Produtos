@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Registro de produtos\bin\Debug\netcoreapp3.1\Registro de produtos.exe
+C:\Users\Marco\Desktop\Registro de produtos\bin\Debug\netcoreapp3.1\Registro de produtos.deps.json
+C:\Users\Marco\Desktop\Registro de produtos\bin\Debug\netcoreapp3.1\Registro de produtos.runtimeconfig.json
+C:\Users\Marco\Desktop\Registro de produtos\bin\Debug\netcoreapp3.1\Registro de produtos.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Registro de produtos\bin\Debug\netcoreapp3.1\Registro de produtos.dll
+C:\Users\Marco\Desktop\Registro de produtos\bin\Debug\netcoreapp3.1\Registro de produtos.pdb
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.dll
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.pdb
+C:\Users\Marco\Desktop\Registro de produtos\obj\Debug\netcoreapp3.1\Registro de produtos.genruntimeconfig.cache
